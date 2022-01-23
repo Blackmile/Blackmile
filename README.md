@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Blackmile
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on any fun project
+- 💞️ I’m looking to collaborate on any software development project
 - 📫 How to reach me stanley.ezeifeanyi@gmail.com
 
 <!---
